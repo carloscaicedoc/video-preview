@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 980px;
+    height: 980px;
+    margin: 0 auto;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: rgb(20, 20, 20);
+    justify-content: space-around;
+    height: 74px;
+    border-top: 7.5px solid rgb(130, 31, 211);
+    margin-bottom: 32px;
+}
+
+.nav h1 {
+    color: white;
+    font-size: 60;
+    font-weight: 400;
+}
+
+.login-btn {
+    background-color: rgb(130, 31, 211);
+    border-color: black;
+    color: rgb(233, 231, 231);
+    padding: 5.1px 16.4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 0%;
+    box-shadow: 2.9px 2.9px black;
+}
+
+.searchbar {
+    padding: 3.1px;
+    width: 455px;
+    height: 13.8px;
+    border-radius: 4px;
+    padding-left: 8px;
+}
+
+.columns {
+    display: flex;
+}
+
+.col-3 {
+    flex: 3;
+}
+
+.col-2 {
+    flex: 2;
+}
+
+.video-pic {
+    width: 670px;
+    margin-right: 33px;
+}
+
+.col-2 h3 {
+    padding-top: 8.6px;
+    padding-bottom: 11.5px;
+    border-bottom: 3.2px solid rgb(43, 42, 42);
+}
+
+
