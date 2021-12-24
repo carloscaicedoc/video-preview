@@ -42,7 +42,7 @@
 .searchbar {
     padding: 3.1px;
     width: 455px;
-    height: 13.8px;
+    height: 14px;
     border-radius: 4px;
     padding-left: 8px;
 }
@@ -121,7 +121,7 @@
     font-size: 15px;
     border-radius: 0%;
     box-shadow: 2.2px 2.2px black;
-    position: relative; right: 18.5px;
+    position: relative; left: 22px;
 }
 
 .sus p {
@@ -141,6 +141,21 @@
     font-weight: 322;
 }
 
+.user-name {
+    color: rgb(113, 22, 189);
+    font-weight: 570;
+    font-size: 30px;
+}
+
+#jl {
+    font-weight: 315;
+    font-size: 18px;
+
+}
+
+.col-2 h4 {
+    font-weight: 300;
+}
 
 
 

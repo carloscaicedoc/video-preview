@@ -8,5 +8,5 @@ function playVideo(vid) {
 function pauseVideo(vid) {
     console.log(vid);
     vid.pause();
-    // vid.currentTime = 0;
+    vid.currentTime = 0;
 }
